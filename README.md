@@ -1,4 +1,4 @@
-# Project name is LoggIt
+# LoggIt - A personal Web based Wallet
 ## Made by
 - Parthik Kumar Das
 - Adarsh Mohanty
